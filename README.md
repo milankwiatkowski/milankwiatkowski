@@ -19,13 +19,15 @@ To zwykły tekst
 Lista:
 1. Jeden
 2. Dwa
-3. L2:
-1. asdas
-2. asda
-3. gdfs
-
+3. Trzy
 
 Lista 2:
 - jeden
 - dwa
 - trzy
+
+```py
+for i in range(4):
+  print(i)
+  print('hello!!!!')
+```
