@@ -1,7 +1,17 @@
-# Nagłówek poziom 1
+# TO JEST NAGŁÓWEK
 
-tekst
+Nazywam się Milan Kwiatkowski
 
-## Nagłówek poziom 2
+Mam 18 lat
 
-tekst
+Studiuję informatykę
+
+*A to tekst kursywą*
+
+**A to pogrubienie**
+
+~~skreślamy~~
+
+
+To zwykły tekst
+>A to cytat blokowy
