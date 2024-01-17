@@ -32,4 +32,7 @@ for i in range(4):
   print('hello!!!!')
 ```
 
-``print('AAA STEPIK')``
+``print('AAA STEPIK')`` i gites
+
+![1](https://github.com/milankwiatkowski/milankwiatkowski/assets/156890209/4c9b1094-f5e6-4f72-a341-a1ce2dd886fc)
+
